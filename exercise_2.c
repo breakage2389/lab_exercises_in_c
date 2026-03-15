@@ -51,6 +51,4 @@ int main()
     printf("%.2lf",obem_cilinder(r,h));
 
 
-
-
 }
